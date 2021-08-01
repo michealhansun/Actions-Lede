@@ -22,3 +22,4 @@ git clone https://github.com/immortalwrt/luci-app-unblockneteasemusic.git packag
 git clone https://github.com/kenzok8/openwrt-packages.git package/openwrt-packages
 git clone https://github.com/kenzok8/small.git package/small
 git clone https://github.com/fatedier/frp.git package/frp
+git clone https://github.com/jerrykuku/luci-theme-argon.git
