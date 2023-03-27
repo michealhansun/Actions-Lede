@@ -17,9 +17,4 @@
 #echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.default
 #echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
 
-git clone https://github.com/project-lede/luci-app-godproxy.git package/luci-app-godproxy
-git clone https://github.com/immortalwrt/luci-app-unblockneteasemusic.git package/luci-app-unblockneteasemusic
-git clone https://github.com/kenzok8/openwrt-packages.git package/openwrt-packages
-git clone https://github.com/kenzok8/small.git package/small package/small
-git clone https://github.com/fatedier/frp.git package/frp package/frp
-git clone https://github.com/jerrykuku/luci-theme-argon.git package/luci-theme-argon
+
