@@ -2,8 +2,6 @@ PassWall
 
 Alist
 
-ShadowSocksR Plus+
-
 ikoolproxy
 
 unblockneteasemusic
