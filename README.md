@@ -8,6 +8,8 @@ unblockneteasemusic
 
 dockerman
 
+softethervpn
+
 socat
 
 KMS 服务器
