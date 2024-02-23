@@ -22,10 +22,4 @@
 # echo 'src-git luci1 https://github.com/openwrt/luci' >>feeds.conf.default
 # echo 'src-git packages1 https://github.com/openwrt/packages' >>feeds.conf.default
 
-echo 'src-git 'passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
-echo 'src-git 'ddns-go https://github.com/sirpdboy/luci-app-ddns-go' >>feeds.conf.default
-echo 'src-git 'autotimeset https://github.com/sirpdboy/luci-app-autotimeset' >>feeds.conf.default
-echo 'src-git 'netspeedtest https://github.com/sirpdboy/netspeedtest' >>feeds.conf.default
-echo 'src-git 'eqosplus https://github.com/sirpdboy/luci-app-eqosplus' >>feeds.conf.default
-echo 'src-git 'argon https://github.com/jerrykuku/luci-theme-argon' >>feeds.conf.default
-echo 'src-git 'dockerman https://github.com/lisaac/luci-app-dockerman' >>feeds.conf.default
+
