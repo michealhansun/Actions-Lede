@@ -27,5 +27,5 @@
  echo 'src-git eqosplus https://github.com/sirpdboy/luci-app-eqosplus' >>feeds.conf.default
  echo 'src-git argon https://github.com/jerrykuku/luci-theme-argon' >>feeds.conf.default
  echo 'src-git dockerman https://github.com/lisaac/luci-app-dockerman' >>feeds.conf.default
- echo 'src-git netspeedtest https://github.com/sirpdboy/netspeedtest' >>feeds.conf.default
+# echo 'src-git netspeedtest https://github.com/sirpdboy/netspeedtest' >>feeds.conf.default
  echo 'src-git ddnsgo2 https://github.com/sirpdboy/luci-app-ddns-go' >>feeds.conf.default
